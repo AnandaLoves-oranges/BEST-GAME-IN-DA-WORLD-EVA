@@ -1,0 +1,50 @@
+body {
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuBdLTZ9MHtgw4TzBxYlEGBzK31iumXxsh9A&s");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+       background-size: cover;
+       h1 {
+  color: rgb(255, 162, 249);
+
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+     h2 {
+  color: rgb(255, 162, 249);
+
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+    h3 {
+  color: rgb(255, 162, 249);
+
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+     }
+     .awnser-box {
+      border: 3px solid #333;
+      border-radius: 150px;
+      padding: 20px;
+      background-color: rgb(225, 173, 230);
+      font-size: 2.5em;
+      text-align: center;
+      max-width: 500px;
+      margin: 20px auto;
+
+     }
+     
+     
+}
+  

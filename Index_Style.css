@@ -1,0 +1,93 @@
+body {
+    background-image: url("https://img.pikbest.com/wp/202344/antique-paper-texture-ancient-parchment-vintage-background-with_9931513.jpg!sw800");
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+       background-size: cover;
+    height:100vh;
+    
+    
+   
+    text-align:center;
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+
+   h1 {
+  color: rgb(68, 40, 25);
+
+    height:100vh;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+     }
+    .Button1:hover {box-shadow:0 8px 16px 0 rgba(214, 14, 141, 0.6)}
+        .Button1 {
+            background-color: rgb(170, 0, 255);
+            border: none;
+            color: rgb(209, 209, 162);
+            padding: 15px 32px;
+            text-align: center;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 8px;
+            font-family: 'Courier New', Courier, monospace;
+            height:100px;
+            align-items:baseline;
+            text-align: center;
+            gap:10px;
+            
+
+        }
+}
+
+     .Button2:hover {box-shadow:0 8px 16px 0 rgba(244, 242, 230, 0.577)}
+        .Button2 {
+            background-color: rgb(42, 247, 203);
+            border: none;
+            color: rgb(174, 102, 61);
+            padding: 15px 32px;
+            text-align: center;
+            text-decoration: s;
+            display: inline-block;
+            font-size: 16px;
+            cursor: pointer;
+            border-radius: 8px;
+            font-family: 'Courier New', Courier, monospace;
+            height:100px;
+            align-items:first baseline;
+            text-align: center;
+            gap:10px;
+            
+    }
+
+    .Button3:hover {box-shadow:0 8px 16px 0 rgba(110, 255, 94, 0.6)}
+    .Button3 {
+        background-color: rgb(48, 112, 216);
+        border: none;
+        color: rgb(231, 201, 181);
+        padding: 15px 32px;
+        text-align: center;
+        text-decoration: s;
+        display: inline-block;
+        font-size: 16px;
+        cursor: pointer;
+        border-radius: 8px;
+        font-family: 'Courier New', Courier, monospace;
+        height:100px;
+        align-items:first baseline;
+        text-align: center;
+        gap:30px;
+        
+        
+        
+    }
+
+
+        
+        
+        
+    
+
